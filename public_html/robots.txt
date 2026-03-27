@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hotelbelavista.com.br/sitemap.xml
+
