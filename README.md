@@ -184,3 +184,18 @@ Esses usuários vêm de `banco/seed_dev_usuarios.sql` e são destinados apenas a
 - O projeto usa estrutura PHP tradicional sem framework.
 - O diretório `public_html/admin/` replica a área administrativa disponível também em `public_html/portal/`.
 - O arquivo `.env` não deve ser versionado.
+
+## IMAGENS:
+
+<img width="1904" height="998" alt="Página inicial do site institucional do hotel (1)" src="https://github.com/user-attachments/assets/186d2c70-bc32-42ae-82ec-43edb5204926" />
+<img width="1905" height="948" alt="Página inicial do site institucional do hotel (2)" src="https://github.com/user-attachments/assets/eb9c3047-77e2-49b2-b579-f2a3275ef83c" />
+<img width="1902" height="942" alt="Página inicial do site institucional do hotel (3)" src="https://github.com/user-attachments/assets/6da958ae-1eb7-4b3b-a540-9646d1c6507c" />
+<img width="1900" height="955" alt="Integração com Google Maps para rota até o hotel" src="https://github.com/user-attachments/assets/e5d507a3-998c-4129-b806-2bbe3a021e1d" />
+<img width="1231" height="947" alt="Painel de gerenciamento dos quartos" src="https://github.com/user-attachments/assets/7870b9bf-c28d-45b4-89d1-03cace4da18c" />
+<img width="1201" height="946" alt="Gestão da estadia e status específico de cada quarto" src="https://github.com/user-attachments/assets/f9109d95-d75a-459a-bb1a-7de0d3a4fe58" />
+<img width="1231" height="951" alt="Vinculação de cliente e acompanhantes ao quarto" src="https://github.com/user-attachments/assets/b1af4c3f-8e91-46f1-b030-e1aa14e274d5" />
+<img width="1217" height="947" alt="Página de histórico de estadias" src="https://github.com/user-attachments/assets/2fc346b1-c99b-4def-8e30-5aa630cd71ea" />
+<img width="1187" height="940" alt="Página de cadastro de hóspedes" src="https://github.com/user-attachments/assets/b0ecfddf-3949-42b5-a5b2-ca063b4d174b" />
+<img width="1242" height="695" alt="Página de gestão de usuários do sistema" src="https://github.com/user-attachments/assets/714c8cae-2a36-4700-9331-2d8587424692" />
+<img width="1338" height="880" alt="Modelo de impressão das informações do quarto" src="https://github.com/user-attachments/assets/385d51d3-5c1d-4d36-aab6-1d54a9fb4b0c" />
+
