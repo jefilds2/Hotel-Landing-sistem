@@ -1,6 +1,6 @@
-# Hotel Bela Vista
+# Site para Hotel 
 
-Sistema web para portfólio que reúne uma landing page institucional e um painel administrativo para operação hoteleira. O projeto foi desenvolvido para o Hotel Bela Vista, com foco em apresentação comercial, gestão de quartos, controle de estadias e cadastro de hóspedes em um único repositório.
+Sistema web para portfólio que reúne uma landing page institucional e um painel administrativo para operação hoteleira. O projeto foi desenvolvido para um Hotel, com foco em apresentação comercial, gestão de quartos, controle de estadias e cadastro de hóspedes em um único repositório.
 
 ## Visão geral
 
